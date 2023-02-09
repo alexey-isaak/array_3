@@ -1,0 +1,15 @@
+C:\Users\alex\geekbrains\Seminar4\array_3\bin\Debug\net7.0\array_3.exe
+C:\Users\alex\geekbrains\Seminar4\array_3\bin\Debug\net7.0\array_3.deps.json
+C:\Users\alex\geekbrains\Seminar4\array_3\bin\Debug\net7.0\array_3.runtimeconfig.json
+C:\Users\alex\geekbrains\Seminar4\array_3\bin\Debug\net7.0\array_3.dll
+C:\Users\alex\geekbrains\Seminar4\array_3\bin\Debug\net7.0\array_3.pdb
+C:\Users\alex\geekbrains\Seminar4\array_3\obj\Debug\net7.0\array_3.csproj.AssemblyReference.cache
+C:\Users\alex\geekbrains\Seminar4\array_3\obj\Debug\net7.0\array_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\geekbrains\Seminar4\array_3\obj\Debug\net7.0\array_3.AssemblyInfoInputs.cache
+C:\Users\alex\geekbrains\Seminar4\array_3\obj\Debug\net7.0\array_3.AssemblyInfo.cs
+C:\Users\alex\geekbrains\Seminar4\array_3\obj\Debug\net7.0\array_3.csproj.CoreCompileInputs.cache
+C:\Users\alex\geekbrains\Seminar4\array_3\obj\Debug\net7.0\array_3.dll
+C:\Users\alex\geekbrains\Seminar4\array_3\obj\Debug\net7.0\refint\array_3.dll
+C:\Users\alex\geekbrains\Seminar4\array_3\obj\Debug\net7.0\array_3.pdb
+C:\Users\alex\geekbrains\Seminar4\array_3\obj\Debug\net7.0\array_3.genruntimeconfig.cache
+C:\Users\alex\geekbrains\Seminar4\array_3\obj\Debug\net7.0\ref\array_3.dll
